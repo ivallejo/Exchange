@@ -1,0 +1,16 @@
+vue create app-name
+npm run serve
+
+npm run lint 
+npm run build
+vue add @ianaya89/tailwind
+
+*add tailwind in main.js
+
+npm i -S vue-router 
+npm i -S numeral ( filters)
+
+Graficos
+
+npm i -S @saeris/vue-spinners vue-chartkick
+pm i -S chart.js
